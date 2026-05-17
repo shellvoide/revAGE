@@ -1,5 +1,5 @@
-RE Agent SDK
-A reverse engineering AI agent with 20 specialized tools, built on Pi Coding Agent.
+**revAGE** 
+RevAGE is a reverse engineering AI agent with 20 specialized tools, built on Pi Coding Agent.
 Quick Install
 chmod +x setup.sh && ./setup.sh
 
